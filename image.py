@@ -17,32 +17,32 @@ list2 = list(namefileF) #FILE NAME
 list3 = list(male.Image) #URL 
 list4 = list(namefileM) #FILE NAME
 
-# b =0
-# for a in list1:
-#     url = a
-#     r = requests.get(url)
-#     with open(list2[b], 'wb') as f:
-#         f.write(r.content)
-#     b+=1
+ b =0
+ for a in list1:
+     url = a
+     r = requests.get(url)
+     with open(list2[b], 'wb') as f:
+         f.write(r.content)
+     b+=1
 
-# # Retrieve HTTP meta-data
-#     print(r.status_code)
-#     print(r.headers['content-type'])
-#     print(r.encoding)
+ # Retrieve HTTP meta-data
+     print(r.status_code)
+     print(r.headers['content-type'])
+     print(r.encoding)
 
-# b =0
-# a=0
-# for a in list3:
-#     url = a
-#     r = requests.get(url)
-#     with open(list4[b], 'wb') as f:
-#         f.write(r.content)
-#     b+=1
+ b =0
+ a=0
+ for a in list3:
+     url = a
+     r = requests.get(url)
+     with open(list4[b], 'wb') as f:
+         f.write(r.content)
+     b+=1
 
-# # Retrieve HTTP meta-data
-#     print(r.status_code)
-#     print(r.headers['content-type'])
-#     print(r.encoding)
+ # Retrieve HTTP meta-data
+     print(r.status_code)
+     print(r.headers['content-type'])
+     print(r.encoding)
 
 c = 0
 for c in list4:
