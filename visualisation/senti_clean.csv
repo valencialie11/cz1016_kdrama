@@ -1,0 +1,104 @@
+,pair,actor1,actor2,lineCount,score,actor1match,actor2match
+0,"('ChaSeungWon', 'LeeSeungGi')",ChaSeungWon,LeeSeungGi,5,0.5928571428571429,"SungHyuk, BaeSooBin",
+1,"('JungHaeIn', 'SonYeJin')",JungHaeIn,SonYeJin,9,0.5010869565217392,ParkJiBin,"BangMinAh, KimYooJung"
+2,"('YoonHyunMin', 'GoSungHee')",YoonHyunMin,GoSungHee,5,0.4875490196078431,"JangKiYong, Chani",SeoYeJi
+3,"('SongJiHyo', 'ChoiJinHyuk')",SongJiHyo,ChoiJinHyuk,5,0.4783333333333334,ShinDongMi,LeeHyunJin
+4,"('JungEunJi', 'KimJiSoo')",JungEunJi,KimJiSoo,6,0.4666666666666666,,
+5,"('YeonWooJin', 'ParkHyeSoo')",YeonWooJin,ParkHyeSoo,5,0.4492592592592592,LeeJoonHyuk,"KimSeJeong, HanJiMin"
+6,"('ParkMinYoung', 'SeoKangJoon')",ParkMinYoung,SeoKangJoon,7,0.4334780844155844,"ParkJooMi, Eugene","JungKyungHo, KangHoon"
+7,"('JangKiYong', 'JinKiJoo')",JangKiYong,JinKiJoo,8,0.4261904761904762,YoonHyunMin,
+8,"('ChaeSooBin', 'JungHaeIn')",ChaeSooBin,JungHaeIn,7,0.4206666666666667,,ParkJiBin
+9,"('GongYoo', 'LeeDongWook')",GongYoo,LeeDongWook,13,0.4126016260162601,,LeeJooHyung
+10,"('HwangJungEum', 'ParkSeoJoon')",HwangJungEum,ParkSeoJoon,7,0.4087301587301588,,ChoiTaeJoon
+11,"('NamgoongMin', 'BangMinAh')",NamgoongMin,BangMinAh,8,0.407017543859649,KimJaeWook,"SonYeJin, YooSeoJin, HwangBoRa"
+12,"('KimSeJeong', 'KimJungHyun')",KimSeJeong,KimJungHyun,6,0.39765625,ParkHyeSoo,"ChoiDaniel, ChoiChanHo"
+13,"('ParkMinYoung', 'JiChangWook')",ParkMinYoung,JiChangWook,34,0.3971580841638982,"ParkJooMi, Eugene",LeeSooHyuk
+14,"('KimYooJung', 'ParkBoGum')",KimYooJung,ParkBoGum,10,0.3932828282828283,YangJinSung,"CheonSeungHo, HongJongHyun, LeeKangMin, HongBin, LeeJaeWook, LeeHyunWoo"
+15,"('JiHyunWoo', 'YooInNa')",JiHyunWoo,YooInNa,10,0.3891891891891891,,
+16,"('HyunBin', 'SonYeJin')",HyunBin,SonYeJin,33,0.381752941893787,"LeeByungHun, ChoiMinSung","BangMinAh, KimYooJung"
+17,"('ChunJungMyung', 'ChoiKangHee')",ChunJungMyung,ChoiKangHee,5,0.3666666666666667,"KimMyungMin, YeonJungHoon",
+18,"('WooDoHwan', 'Joy')",WooDoHwan,Joy,10,0.3614035087719298,RyuJoonYeol,JoMinAh
+19,"('Uee', 'LeeSeoJin')",Uee,LeeSeoJin,5,0.3454212454212454,"SaHyunJin, HwangSunHee","YoonDooJoon, JoJungSuk"
+20,"('KimNamGil', 'KimAhJoong')",KimNamGil,KimAhJoong,7,0.3431547619047619,"ChoiWonYoung, KimJooHeon, KimJoonSung","JungSoMin, HanBoReum"
+21,"('JungSoMin', 'LeeMinKi')",JungSoMin,LeeMinKi,9,0.3397372742200328,,"YookSungJae, N"
+22,"('LeeJoonGi', 'IU')",LeeJoonGi,IU,7,0.3382034632034632,HwiYoung,JeonHyoSung
+23,"('LeeSungKyung', 'NamJooHyuk')",LeeSungKyung,NamJooHyuk,18,0.335595238095238,,
+24,"('ParkMinYoung', 'LeeMinHo')",ParkMinYoung,LeeMinHo,8,0.3317355889724311,"ParkJooMi, Eugene",KimShiHoo
+25,"('LeeYooBi', 'LeeJoonHyuk')",LeeYooBi,LeeJoonHyuk,5,0.3291666666666667,,HwangInYeop
+26,"('KimJiWon', 'ParkSeoJoon')",KimJiWon,ParkSeoJoon,16,0.326930894308943,,ChoiTaeJoon
+27,"('ParkBoYoung', 'ParkHyungShik')",ParkBoYoung,ParkHyungShik,15,0.3198198198198198,NaHaeRyung,LeeJinHyuk
+28,"('LeeDongWook', 'YooInNa')",LeeDongWook,YooInNa,24,0.3187095238095239,LeeJooHyung,
+29,"('LeeJunHo', 'WonJinAh')",LeeJunHo,WonJinAh,9,0.3159090909090908,"LeeHeeJoon, MarkTuan","KimDaMi, MoonGeunYoung"
+30,"('LeeSeungGi', 'HaJiWon')",LeeSeungGi,HaJiWon,7,0.3054166666666666,,"YeomHyeRan, JungAeYun, KimHoJung, KimHaNeul, JeonHyeJin, JeonMiSeon, LeeMiYoung, MoonJungHee"
+31,"('ChaEunWoo', 'MoonGaYoung')",ChaEunWoo,MoonGaYoung,7,0.3049084249084249,,
+32,"('ShinYeEun', 'ParkJinYoung')",ShinYeEun,ParkJinYoung,5,0.3040000000000001,YooInYoung,LeeSangYeob
+33,"('LeeJeHoon', 'ShinMinAh')",LeeJeHoon,ShinMinAh,8,0.3003174603174602,"EricMun, KimMinKyu",ParkYooNa
+34,"('HyunBin', 'HaJiWon')",HyunBin,HaJiWon,13,0.2994017094017093,"LeeByungHun, ChoiMinSung","YeomHyeRan, JungAeYun, KimHoJung, KimHaNeul, JeonHyeJin, JeonMiSeon, LeeMiYoung, MoonJungHee"
+35,"('KimYooJung', 'JiChangWook')",KimYooJung,JiChangWook,9,0.2990196078431373,YangJinSung,LeeSooHyuk
+36,"('IU', 'YeoJinGoo')",IU,YeoJinGoo,14,0.298030303030303,JeonHyoSung,
+37,"('LeeJongSuk', 'LeeNaYoung')",LeeJongSuk,LeeNaYoung,8,0.2944791666666666,,
+38,"('ShinHyeSun', 'KimJungHyun')",ShinHyeSun,KimJungHyun,10,0.2904513888888889,YooInNa,"ChoiDaniel, ChoiChanHo"
+39,"('SoJiSub', 'ShinMinAh')",SoJiSub,ShinMinAh,12,0.2902380952380952,SongChangEui,ParkYooNa
+40,"('JooJiHoon', 'KimHyeSoo')",JooJiHoon,KimHyeSoo,10,0.2845238095238095,,NamKiAe
+41,"('ShinMinAh', 'LeeSeungGi')",ShinMinAh,LeeSeungGi,8,0.2837121212121212,ParkYooNa,
+42,"('JunJiHyun', 'KimSooHyun')",JunJiHyun,KimSooHyun,12,0.2821138211382113,,
+43,"('HanGiChan', 'JangEuiSoo')",HanGiChan,JangEuiSoo,6,0.2766666666666666,,
+44,"('KimDongWook', 'MoonGaYoung')",KimDongWook,MoonGaYoung,11,0.2761274509803921,OhManSuk,
+45,"('Rain', 'Krystal')",Rain,Krystal,9,0.2734375,"WiHaJoon, KimJaeWon, KangKiYoung, YoonSangHoon, YoonPark","ParkJiHyun, LeeElijah, JeonYeoBin"
+46,"('KimJaeWook', 'ParkMinYoung')",KimJaeWook,ParkMinYoung,17,0.2728142857142856,NamgoongMin,"ParkJooMi, Eugene"
+47,"('MoonChaeWon', 'ParkShiHoo')",MoonChaeWon,ParkShiHoo,5,0.2683197049863717,"HongSeoYoung, OhHyunKyung",
+48,"('GongHyoJin', 'JoInSung')",GongHyoJin,JoInSung,16,0.267517006802721,,KimSungJoo
+49,"('SongHyeKyo', 'SongJoongKi')",SongHyeKyo,SongJoongKi,13,0.2666532258064515,,"KimJungHoon, ChoiByungChan, MinHyoGi, ZuHo"
+50,"('JiChangWook', 'NamJiHyun')",JiChangWook,NamJiHyun,13,0.2651315789473684,LeeSooHyuk,"KimJaeKyung, ParkSoonChun, KimMinJung"
+51,"('ShinSeKyung', 'ParkYooChun')",ShinSeKyung,ParkYooChun,8,0.2599731182795699,"BaeDaBin, YoonSoHee, JeonSoMin, LeeRuby, BaeSuzy, Yura","LeeSeungJun, BaeInHyuk"
+52,"('SeoInGuk', 'JungSoMin')",SeoInGuk,JungSoMin,10,0.2595052083333333,"GuWon, Ryeoun, KimJaeYoung",
+53,"('ParkBoYoung', 'AhnHyoSeop')",ParkBoYoung,AhnHyoSeop,6,0.2584102934102934,NaHaeRyung,"KimJinKwon, ShimHeeSub"
+54,"('KimJiWon', 'JiChangWook')",KimJiWon,JiChangWook,7,0.2536805555555556,,LeeSooHyuk
+55,"('KwonNaRa', 'ParkSeoJoon')",KwonNaRa,ParkSeoJoon,6,0.2529411764705882,"JungYooJin, JungHyeSung, LeeHaNa, JiWoo, YooSoYoung",ChoiTaeJoon
+56,"('RoWoon', 'KimHyeYoon')",RoWoon,KimHyeYoon,12,0.2525738536155202,,AhnJiHyun
+57,"('KimSooHyun', 'SeoYeJi')",KimSooHyun,SeoYeJi,35,0.248991457787754,,GoSungHee
+58,"('LeeJoonGi', 'MoonChaeWon')",LeeJoonGi,MoonChaeWon,16,0.2440920398009949,HwiYoung,"HongSeoYoung, OhHyunKyung"
+59,"('LeeJongSuk', 'ParkShinHye')",LeeJongSuk,ParkShinHye,19,0.2436612654320988,,
+60,"('GongSeungYeon', 'LeeJongHyun')",GongSeungYeon,LeeJongHyun,7,0.2434920634920634,"HanSoHee, RyuHyunKyung, MoonSoRi","YeoJinGoo, LeePilMo, MoonYongSuk"
+61,"('JungYongHwa', 'ParkShinHye')",JungYongHwa,ParkShinHye,9,0.2402439024390243,KimMyungSoo,
+62,"('KimYoungKwang', 'JinKiJoo')",KimYoungKwang,JinKiJoo,12,0.2386752136752136,,
+63,"('OkTaecYeon', 'KimSoHyun')",OkTaecYeon,KimSoHyun,9,0.2341954022988505,"JinHyuk, SungJoon, JoHanSun","KimHyunSoo, HyoMin, KimHeeJung, ChoiYeonCheong, ParkHaSun, YoonYeJoo"
+64,"('SoJiSub', 'GongHyoJin')",SoJiSub,GongHyoJin,20,0.2341101953601954,SongChangEui,
+65,"('ShinSeKyung', 'ImShiWan')",ShinSeKyung,ImShiWan,7,0.234090354090354,"BaeDaBin, YoonSoHee, JeonSoMin, LeeRuby, BaeSuzy, Yura",
+66,"('HanGroo', 'YeonWooJin')",HanGroo,YeonWooJin,5,0.2294444444444444,ShinHyeSun,LeeJoonHyuk
+67,"('TakWooSuk', 'YeonSeungHo')",TakWooSuk,YeonSeungHo,6,0.2277777777777777,GoJoon,"SonWooHyun, JangWooYoung"
+68,"('LeeByungHun', 'KimTaeRi')",LeeByungHun,KimTaeRi,5,0.2276041666666666,,
+69,"('ParkYooChun', 'HanJiMin')",ParkYooChun,HanJiMin,7,0.2258613445378151,"LeeSeungJun, BaeInHyuk",
+70,"('JiChangWook', 'SongYoonAh')",JiChangWook,SongYoonAh,7,0.225,LeeSooHyuk,
+71,"('JiSung', 'HanJiMin')",JiSung,HanJiMin,6,0.2208333333333333,"JooSangWook, JoHyunJae",
+72,"('GongYoo', 'KimGoEun')",GongYoo,KimGoEun,25,0.2189518336070059,,"JoHyeJoo, ChoiARa, LeeSooJi, KimSeulGi, KimHyeJoon"
+73,"('SeoKangJoon', 'GongSeungYeon')",SeoKangJoon,GongSeungYeon,16,0.2175,"JungKyungHo, KangHoon","HanSoHee, RyuHyunKyung, MoonSoRi"
+74,"('HeoHyunJun', 'YooJun')",HeoHyunJun,YooJun,7,0.2164228219696969,KimYoungKwang,KwakDongYeon
+75,"('KimSoHyun', 'SongKang')",KimSoHyun,SongKang,7,0.2159722222222223,"KimHyunSoo, HyoMin, KimHeeJung, ChoiYeonCheong, ParkHaSun, YoonYeJoo","ParkJiHoon, OhMinSuk, WonHyungHoon"
+76,"('ImSooJung', 'YooAhIn')",ImSooJung,YooAhIn,5,0.215340909090909,KimBoMi,
+77,"('OhYeonSeo', 'LeeSeungGi')",OhYeonSeo,LeeSeungGi,10,0.2120987654320988,"ChunWooHee, WangJiHye, JungYuMi, ParkGyuRi, JungDaSol",
+78,"('HwangJungEum', 'JiSung')",HwangJungEum,JiSung,10,0.2096846846846846,,"JooSangWook, JoHyunJae"
+79,"('LeeJongSuk', 'LeeBoYoung')",LeeJongSuk,LeeBoYoung,12,0.2044602272727272,,"LeeChungAh, JangYoungNam, MoonGaYoung"
+80,"('HanHyoJoo', 'LeeJongSuk')",HanHyoJoo,LeeJongSuk,18,0.2017300724637681,,
+81,"('KimDaMi', 'ParkSeoJoon')",KimDaMi,ParkSeoJoon,7,0.196078431372549,WonJinAh,ChoiTaeJoon
+82,"('YooSeungHo', 'ChaeSooBin')",YooSeungHo,ChaeSooBin,6,0.1939583333333333,,
+83,"('LeeDongWook', 'JoBoAh')",LeeDongWook,JoBoAh,8,0.1920454545454545,LeeJooHyung,
+84,"('JiChangWook', 'ImYoonAh')",JiChangWook,ImYoonAh,5,0.1916666666666666,LeeSooHyuk,
+85,"('ImSooJung', 'JangKiYong')",ImSooJung,JangKiYong,6,0.1867987305487304,KimBoMi,YoonHyunMin
+86,"('BaeSuzy', 'LeeJongSuk')",BaeSuzy,LeeJongSuk,5,0.1854022988505747,,
+87,"('ParkMinYoung', 'ParkSeoJoon')",ParkMinYoung,ParkSeoJoon,15,0.1853390242716085,"ParkJooMi, Eugene",ChoiTaeJoon
+88,"('LeeShiYoung', 'LeeDongWook')",LeeShiYoung,LeeDongWook,7,0.170798611111111,SongYoonAh,LeeJooHyung
+89,"('NamJooHyuk', 'ShinSeKyung')",NamJooHyuk,ShinSeKyung,8,0.1676510989010989,,"BaeDaBin, YoonSoHee, JeonSoMin, LeeRuby, BaeSuzy, Yura"
+90,"('HwangInYeop', 'MoonGaYoung')",HwangInYeop,MoonGaYoung,6,0.1619047619047619,,
+91,"('ParkShinHye', 'LeeMinHo')",ParkShinHye,LeeMinHo,15,0.1612735849056603,,KimShiHoo
+92,"('SungJoon', 'Uee')",SungJoon,Uee,6,0.152536231884058,,"SaHyunJin, HwangSunHee"
+93,"('LeeMinHo', 'JunJiHyun')",LeeMinHo,JunJiHyun,6,0.1518398268398268,KimShiHoo,
+94,"('LeeMinHo', 'KimGoEun')",LeeMinHo,KimGoEun,12,0.1501157407407408,KimShiHoo,"JoHyeJoo, ChoiARa, LeeSooJi, KimSeulGi, KimHyeJoon"
+95,"('KimMyungSoo', 'ShinYeEun')",KimMyungSoo,ShinYeEun,5,0.1177083333333333,JungYongHwa,YooInYoung
+96,"('BaeSuzy', 'NamJooHyuk')",BaeSuzy,NamJooHyuk,22,0.1163023679417122,,
+97,"('GoAhRa', 'ParkSeoJoon')",GoAhRa,ParkSeoJoon,6,0.1099999999999999,KangYeNa,ChoiTaeJoon
+98,"('JoJungSuk', 'ParkBoYoung')",JoJungSuk,ParkBoYoung,8,0.1053571428571428,,NaHaeRyung
+99,"('YooAhIn', 'KimHeeAe')",YooAhIn,KimHeeAe,5,0.0981481481481481,,
+100,"('ShinHyeSun', 'LeeJongSuk')",ShinHyeSun,LeeJongSuk,5,0.0767460317460317,YooInNa,
+101,"('KimGoEun', 'ParkHaeJin')",KimGoEun,ParkHaeJin,8,0.0249999999999999,"JoHyeJoo, ChoiARa, LeeSooJi, KimSeulGi, KimHyeJoon",One
+102,"('JungHaeIn', 'HanJiMin')",JungHaeIn,HanJiMin,7,0.0145833333333333,ParkJiBin,
