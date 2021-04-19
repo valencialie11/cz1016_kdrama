@@ -40,3 +40,5 @@ Done by: Chen Xing Yu, Jacintha Wee, Valencia Lie
 5.3. ui.R: the design of the dashboard as well as its structure
 
 5.4. server.R: the interactive aspect of the dashboard so that it is able to function the way we want to.
+
+To access the dashboard, please go to: https://valencialie11.shinyapps.io/actormatcher/
