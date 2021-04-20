@@ -29,7 +29,7 @@ Done by: Chen Xing Yu, Jacintha Wee, Valencia Lie
 ## 4. Facial analysis
 4.1. Image.py: scrape images off the mydramalist website using the url scraped previously and converting the images into grayscale
 
-4.1. facial_similarity.ipynb: do facial similarity analysis on all images of actors that we scraped before. Match these actors and actresses with the output csv in the senti.ipynb according (e.g. actor A looks the most similar to actor B and actor B is matched with actress C). (requirements_vgg.txt as the virtual environment)
+4.1. facial_similarity.ipynb: do facial similarity analysis on all images of actors that we scraped before. Match these actors and actresses with the output csv in the senti.ipynb accordingly (e.g. actor A looks the most similar to actor B and actor B is matched with actress C). (requirements_vgg.txt as the virtual environment)
 
 ## 5. Visualisation 
 
